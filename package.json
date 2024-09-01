@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "ai": "^3.3.21",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  },
+  "name": "ai_devs3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "day0": "npx tsx ./day0/ai_devs3_pre_api.ts"
+  },
+  "keywords": [
+    "ai_devs3"
+  ],
+  "author": "ksenecki",
+  "license": "ISC",
+  "description": "ai_devs3",
+  "devDependencies": {
+    "@types/axios": "^0.9.36",
+    "@types/node": "^22.5.2",
+    "typescript": "^5.5.4"
+  },
+  "type": "module"
+}
