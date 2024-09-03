@@ -14,8 +14,8 @@
 
 > Pamiętaj, że wszystkie zadania są wspólne dla wszystkich uczestników. Nie przeszkadzaj innym. Wszystkie odpowiedzi są generowane losow, więc ich znajomość Ci w niczym nie pomoże.
 
-### [CHAT](https://github.com/ksenecki/cyber-panda/blob/main/writeups/ai_devs3/pre_ai3/chat/readme.md)
+### [CHAT](https://github.com/ksenecki/ai_devs3/blob/main/day0/chat/readme.md)
 Szlifuj umiejętności wydobywania informacji poprzez budowę sprytnych promptów.
 
-### API
+### [API](https://github.com/ksenecki/ai_devs3/blob/main/day0/api/readme.md)
 Naucz się komunikacji z API, z którym przyjdzie Ci zmierzyć się w 2024 roku
