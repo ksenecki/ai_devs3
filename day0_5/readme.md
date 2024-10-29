@@ -6,15 +6,13 @@ Przed rozpoczęciem misji dostaliśmy fizyczne dokumenty, które znajdują się 
 
 Z tyłu mapy znajduje się kod QR z łacińskim podpisem `Speculum est reflexio veritas`.
 
-![kod qr z napisem po łacinie](qr_code_1.jpeg)
+![kod qr z napisem po łacinie](assets/qr_code_1.jpeg)
 
 Napis oznacza `lustro jest odbiciem prawdy`.
 
 Rozwiązaniem jest odwrócenie kolorów prawej strony kodu QR.
 
-![kod qr z odwróconymi kolorami](qr_code_2.png)
+![kod qr z odwróconymi kolorami](assets/qr_code_2.png)
 
 Kod prowadzi na stronę `https://ag3nts.org/chronos/`.  
-Znajduje się tam wiadomość:
-
-> Tajemnica kodu QR została rozwikłana. {{FLG:WALKAZCZASEM}}
+Znajduje się tam: <details><summary>wiadomość</summary>Tajemnica kodu QR została rozwikłana. {{FLG:WALKAZCZASEM}}</details>
